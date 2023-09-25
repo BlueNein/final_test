@@ -1,0 +1,18 @@
+啟動flask
+將網址複製
+ex. http://127.0.0.1:5000
+開啟ngrok.exe
+輸入指令+enter
+ngrok http 127.0.0.1:5000
+複製連結
+ex. https://3dac-114-25-172-35.ngrok-free.app
+開啟git_to_travel
+並將連結貼到index.html中
+最後commit上git
+指令
+git add .
+git commit -m "????"
+git branch -M master
+git push -u origin master
+
+等待一陣子應該就上傳完畢了
